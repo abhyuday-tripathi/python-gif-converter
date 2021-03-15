@@ -2,7 +2,7 @@
 
 ## How to use -
 
-```sh
+```bash
   pip3 install -r requierments.txt
 ```
 
@@ -10,7 +10,7 @@ and then just add a video with a .mp4 extension and it should be less that 3 sec
 
 and after all that just run --
 
-```sh
+```bash
   python3 main.py
 ```
 
