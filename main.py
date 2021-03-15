@@ -13,4 +13,4 @@ def gif_maker(input_path, target_format):
     print(f"Frame {frames}")
   print("Done!")  
   writer.close()
-gif_maker(clip, '.mov')
+gif_maker(clip, '.gif')
